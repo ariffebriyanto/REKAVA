@@ -45,7 +45,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/LuanEdCosta/redux-saga-todo-list.git
+$ git clone https://github.com/ariffebriyanto/REKAVA.git
 
 # Go into the repository
 $ cd redux-saga-todo-list
